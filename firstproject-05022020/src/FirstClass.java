@@ -13,5 +13,11 @@ public class FirstClass {
         /** put 3 short, 3 long , 3 int
          * assign value and print them
          */
+        float bankBalance = 10.123456789f;
+        double moneyIOwe =  10.123456789;
+
+        System.out.println(bankBalance);
+        System.out.println(moneyIOwe);
+
     }
 }
